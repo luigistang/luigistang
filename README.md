@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! Eu sou o Luigi Stangherlin 🚀
 
-<!--
-**luigistang/luigistang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estudante de Ciência da Computação | Desenvolvedor Back-end Python | Praticando POO, FastAPI e SQL
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e focado em Engenharia de Software e Back-end. Atualmente, concilio minha rotina profissional com estudos intensivos no ecossistema Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### No que estou focando agora:
+ - 🐍 **Back-end:** Dominando Programação Orientada a Objetos (POO), modelagem de dados com SQL e APIs modernas com FastAPI.
+ - 🛠️ **DevOps & Infra:** Estudando infraestrutura de desenvolvimento com foco em Docker e Cloud (AWS).
+ - 🔄 **Flexibilidade:** Gosto de aprender rápido e me adaptar a novas áreas (como Engenharia de Dados ou Automação) conforme a necessidade do time.
+
+### Entre em contato:
+ - [LinkedIn](https://www.linkedin.com/in/luigi-stangherlin)
+ - [E-mail](mailto:seu-email@aqui.com)
